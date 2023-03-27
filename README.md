@@ -1,4 +1,4 @@
-# Gym Backend or Makuembe-WorkOut
+# Gym WorkOut
 
 
 Gym Backend is a Ruby on Rails application that serves as the backend for the React Gym application. Gym Backend provides the API endpoints that the React Gym frontend interacts with to create and manage user accounts, workout routines, and progress tracking data.
